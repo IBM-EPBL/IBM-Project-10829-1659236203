@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pathlib
-numpy
-aiofiles
-tensorflow==2.7.0
